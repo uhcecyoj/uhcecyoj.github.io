@@ -1,0 +1,20 @@
+.basic_style {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
+.font_red {
+    color: red;
+}
+
+.font_yellow {
+    color: yellow;
+}
+
+.bg_red {
+    background-color: red;
+}
+
+.bg_green {
+    background-color: green;
+}
